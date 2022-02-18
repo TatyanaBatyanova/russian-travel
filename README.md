@@ -5,4 +5,4 @@
 Stack: HTML5, CSS3, Flexbox, Grid Layout, Figma, БЭМ.
 
 Ссылка на сайт:
-https://github.com/TatyanaBatyanova/russian-travel.git
+https://tatyanabatyanova.github.io/russian-travel/index.html
